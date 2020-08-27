@@ -1,0 +1,16 @@
+suduko/board.py
+suduko/group.py
+suduko/square.py
+suduko.egg-info/PKG-INFO
+suduko.egg-info/SOURCES.txt
+suduko.egg-info/dependency_links.txt
+suduko.egg-info/top_level.txt
+test/test_group.py
+venv/Lib/site-packages/py/__init__.py
+venv/Lib/site-packages/py/__metainfo.py
+venv/Lib/site-packages/py/_builtin.py
+venv/Lib/site-packages/py/_error.py
+venv/Lib/site-packages/py/_std.py
+venv/Lib/site-packages/py/_version.py
+venv/Lib/site-packages/py/_xmlgen.py
+venv/Lib/site-packages/py/test.py
